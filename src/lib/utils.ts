@@ -45,7 +45,7 @@ export function constructMetadata({
       creator: "@AbhinavRaizero",
     },
     icons,
-    metadataBase: new URL("https://inkfusion-nine.vercel.app/"),
+    metadataBase: new URL("https://nyai.vercel.app/"),
     themeColor: "#FFF",
     ...(noIndex && {
       robots: {
